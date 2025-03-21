@@ -1,0 +1,19 @@
+//Declaring integer variables;
+int c, thisIsAVaiable. q45637, number;
+
+//prompt the user to enter an integer
+System.out.print("Enter a number: ");
+
+//Read an integer from the keyboard
+Scanner input = new Scanner(System.in);
+int value = input.nextInt();
+
+//print text on one line
+System.out.println("This is a java Program");
+
+//print text on two lines using printf
+System.out.printf("This is a java","Program");
+
+//if number is not 7, print a message
+if (number != 7){
+	System.out,println("the number is not equal to 7");
